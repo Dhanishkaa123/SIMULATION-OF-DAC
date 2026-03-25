@@ -12,6 +12,9 @@
 
 
 ## SIMULATION OUTPUT:
+<img width="478" height="251" alt="image" src="https://github.com/user-attachments/assets/dc8518c7-1f1b-4b6b-b29c-bcbe66b82399" />
+
+<img width="572" height="307" alt="image" src="https://github.com/user-attachments/assets/7deb14f0-ae5c-4304-bfe0-c3b211623861" />
 
 
 ## PROCEDURE:
